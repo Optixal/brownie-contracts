@@ -1,0 +1,3 @@
+dotenv: .env
+wallets:
+  from_key: ${WEB3_PRIVATE_KEY}
